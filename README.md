@@ -17,6 +17,8 @@ https://github.com/shawnyuen/SemanticSegPaperCollection
 
 https://github.com/rstrudel/segmenter
 
+https://github.com/saic-vul/ritm_interactive_segmentation#pretrained-models [interactive]
+
 Human Pose Detection
 https://github.com/wangzheallen/awesome-human-pose-estimation
 
