@@ -5,7 +5,7 @@ Inpainting
 https://github.com/1900zyh/Awesome-Image-Inpainting
 
 https://github.com/fenglinglwb/MAT
-
+python generate_image.py --network pretrained/Places_512.pkl --dpath test_sets/Places/images --mpath test_sets/Places/masks --outdir samples
 
 https://github.com/tsingqguo/misf
 
