@@ -29,3 +29,4 @@ https://github.com/AliaksandrSiarohin/monkey-net
 https://deepmotionediting.github.io/style_transfer
 https://github.com/Shimingyi/MotioNet
 https://github.com/soomean/Diverse-Motion-Stylization
+https://github.com/snap-research/articulated-animation
