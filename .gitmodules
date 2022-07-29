@@ -1,0 +1,3 @@
+[submodule "inPainting"]
+	path = inPainting
+	url = https://github.com/kushagr2402/MAT.git
