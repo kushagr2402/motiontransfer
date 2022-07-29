@@ -1,3 +1,6 @@
 [submodule "inPainting"]
 	path = inPainting
 	url = https://github.com/kushagr2402/MAT.git
+[submodule "segmentation"]
+	path = segmentation
+	url = https://github.com/kushagr2402/ritm_interactive_segmentation.git
