@@ -4,3 +4,6 @@
 [submodule "segmentation"]
 	path = segmentation
 	url = https://github.com/kushagr2402/ritm_interactive_segmentation.git
+[submodule "libigl"]
+	path = libigl
+	url = https://github.com/kushagr2402/libigl.git
